@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Hurricane0.github.io/Realtime-Chat-React",
   "name": "chat-app",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "uuid": "^3.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "npm src/server/index.js ",
     "dev": "concurrently 'npm run react' 'npm run server'",
     "react": "react-scripts start",
