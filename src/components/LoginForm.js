@@ -53,7 +53,6 @@ export default class LoginForm extends Component {
             onChange={this.handleChange}
             placeholder={"MYCoolUSername"}
           />
-          <button>Подтвердить</button>
           <div className="error">{error ? error : null}</div>
         </form>
       </div>
