@@ -1,6 +1,6 @@
 ## ReactJS and Socket.io Chat App 
 
-Realtime chat (messanger) created with React.js and Socket.io technologies.
+Realtime chat (messanger) created with React.js and Socket.io technologies
 
 ### Getting Started
 
