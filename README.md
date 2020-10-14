@@ -4,7 +4,7 @@ Realtime chat (messanger) created with React.js and Socket.io technologies
 
 ### Getting Started
 
-First you'll need to fork or download the respository.
+First you'll need to fork or download the respository
 
 Then in terminal you'll install the node modules
 
